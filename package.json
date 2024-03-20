@@ -5,7 +5,7 @@
   "homepage": "https://ovidutzul.github.io/Simply-Chocolate-project-team-6/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-team6/",
+    "build": "parcel build src/*.html --public-url /Simply-Chocolate-project-team-6/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
