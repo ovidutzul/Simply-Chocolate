@@ -2,7 +2,7 @@
   "name": "project-team6",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://florintihi.github.io/project-team6/",
+  "homepage": "https://ovidutzul.github.io/Simply-Chocolate-project-team-6/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-team6/",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florintihi/project-team6/.git"
+    "url": "git+https://github.com/ovidutzul/Simply-Chocolate-project-team-6/.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/florintihi/project-team6/issues"
+    "url": "https://github.com/ovidutzul/Simply-Chocolate-project-team-6/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
